@@ -1,5 +1,5 @@
 # EXO14V21
-EXO14V21: AN SMART CANE NAVIGATOR DEVICE FOR VISUALLY IMPAIRED
+EXO14V21: A SMART CANE NAVIGATOR DEVICE FOR VISUALLY IMPAIRED
 
 The idea of this project is based on a well-known biblical story in Exodus 14:21. In which an obedient servant of God named “Moses”, parting the Red Sea to escape the pursuing Egyptian army. The power of God revealed across the world through Moses and through the help of empowered cane that God has given to him. 
 
